@@ -1,10 +1,10 @@
 {
+  "trivia": [
+    { "id": 1, "username": "dean", "highScore": 290 },
+    { "id": 2, "username": "Phteven", "highScore": 0 }
+  ],   
   "affirmation_users": [
-    {
-      "id": 1,
-      "username": "Dean",
-      "affirmations": []
-    }
+    { "id": 1, "username": "Dean", "affirmations": [] }
   ],
   "moods": [
     {
